@@ -1,5 +1,5 @@
 # [Installation: How to install the Python environment]
-Download the pleth_script.yaml file from the GitHub. Move the file to a desired directory.
+Download the pleth_environ.yaml file from the GitHub. Move the file to a desired directory.
 
 Ensure that Anaconda or Miniconda is installed (https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html)
 
