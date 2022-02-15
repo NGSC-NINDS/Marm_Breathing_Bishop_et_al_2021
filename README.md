@@ -49,7 +49,7 @@ If the user wishes to input a pandas DataFrame object as a baseline to produce a
 
 Finally, changing `plot` to True generates a plot of the breathing data (raw and cleaned signals, breathing rate, and breathing amplitude), while `start_plot` and `end_plot` specifies the region of interest for the plot itself. Changing `plot` to True will typically not perform the full analysis in the excel file. 
 
-#[Running the Script]
+# [Running the Script]
 
 With the Python environment activated, type `python pleth_script.py` (Some Python versions require typing `python3 pleth_script.py`) and hit enter. 
 
