@@ -1,7 +1,9 @@
 import os
 
-#this is where the time sync file is located. Default is in a folder located in the current directory
-#Please ensure that this folder (as well as all others) exist
+'''this is where the time sync file is located. Default is in a folder located in the current directory
+Please ensure that this folder (as well as all others) exist
+If you want to change the destination, simply put in the path length as a string (for the info_dir, also include the name of the excel file)
+'''
 info_dir = os.path.join(os.path.abspath(os.path.curdir), 'info_dir', 'time_sync.xlsx' ) 
 
 #Specify the excel sheet (bottom of window) the program should use
